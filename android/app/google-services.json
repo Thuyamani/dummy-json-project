@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "568955674245",
+    "firebase_url": "https://dummy-ed112.firebaseio.com",
+    "project_id": "dummy-ed112",
+    "storage_bucket": "dummy-ed112.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568955674245:android:6beb2e231f2b42a4aad3ec",
+        "android_client_info": {
+          "package_name": "com.example.dummy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568955674245-v24vt06r89ud69rav6up6vvfnbjpn441.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkaUzMuitkeGYFUJXSKx2xS01fNEs30m8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568955674245-v24vt06r89ud69rav6up6vvfnbjpn441.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
